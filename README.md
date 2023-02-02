@@ -28,7 +28,7 @@ Hello stranger! my name is Neeraj Singh Mahar and I am a Full Stack Developer, W
 
 - 💬 Feel free to contact me, i am happy to help 
 
-- 💬 Have a look at my [Portfolio](https://neerajsinghmahar11.github.io) 
+- 💬 Have a look at my <a href="https://neerajsinghmahar11.github.io/" >Portfolio</a>
 
 
 
