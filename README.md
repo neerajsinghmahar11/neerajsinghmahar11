@@ -9,8 +9,8 @@ Hello stranger! my name is Neeraj Singh Mahar and I am a Full Stack Developer, W
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neerajsinghmahar11&label=Profile%20views&color=0e75b6&style=flat" alt="neerajsinghmahar11" /> </p>
 
    <p align="center" color:"red">
-     <a href="https://avatars.githubusercontent.com/u/112856505?v=4">
-          <img src="https://readme-typing-svg.demolab.com/?lines=hi! My self Neeraj Singh Mahar 🏽; I am a Full-stack%20web%20developer 🏻‍💻; interested in Coding 🏃‍♂️♂️;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
+     
+          <img src="https://readme-typing-svg.demolab.com/?lines=hi! My self Neeraj Singh Mahar 🏽; I am a Full-stack%20web%20developer 🏻‍💻; interested in Coding 🏃‍♂️♂️;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000">
       </p>
       
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
