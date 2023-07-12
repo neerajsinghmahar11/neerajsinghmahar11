@@ -72,8 +72,8 @@ Hello stranger! my name is Neeraj Singh Mahar and I am a Full Stack Developer, W
 
 </div>
 
- <h2 align="left">⚡Activity Graph:</h2>
-  <a><img alt="Neeraj Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=neerajsinghmahar11&theme=react-light&hide_border=true" /></a>
+<!-- <h2 align="left">⚡Activity Graph:</h2>
+   <a><img alt="Neeraj Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=neerajsinghmahar11&theme=react-dark&hide_border=true" /></a> -->
 
 
 <br> 
