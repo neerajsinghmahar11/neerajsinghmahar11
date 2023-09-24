@@ -1,7 +1,7 @@
 <h2 align="center">
-  <h2>Hi There , </h2> 
+  Hi There , 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  <h2>I'm</h2> 
+  I'm 
   <a href="https://www.linkedin.com/in/neeraj-singh-mahar-a81b78210/"> Neeraj Singh Mahar 💻</a>!
 </h2>  
 
