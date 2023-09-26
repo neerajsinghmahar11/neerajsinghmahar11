@@ -1,10 +1,5 @@
-<h2 align="center">
-  Hi There , 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  I'm 
-  <a href="https://www.linkedin.com/in/neeraj-singh-mahar-a81b78210/"> Neeraj Singh Mahar 💻</a>!
-</h2>  
-<h1 align="center">Hi 👋, I'm  <a href="https://www.linkedin.com/in/neeraj-singh-mahar-a81b78210/"> Neeraj Singh Mahar 💻</a>!</h1>
+
+<h1 align="center">Hi 👋, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm  <a href="https://www.linkedin.com/in/neeraj-singh-mahar-a81b78210/"> Neeraj Singh Mahar 💻</a>!</h1>
 <h3 align="center">A passionate Full Stack Developer from India.</h3>
 
 Hello stranger! my name is Neeraj Singh Mahar and I am a Full Stack Developer, Working with MERN stack and programming languages like JavaScript for web development. Looking forward to some interesting and challenging opportunities. 
