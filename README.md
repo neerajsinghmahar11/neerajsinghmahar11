@@ -4,6 +4,8 @@
   I'm 
   <a href="https://www.linkedin.com/in/neeraj-singh-mahar-a81b78210/"> Neeraj Singh Mahar 💻</a>!
 </h2>  
+<h1 align="center">Hi 👋, I'm Bhavnesh Arora</h1>
+<h3 align="center">A passionate Full Stack Developer from India.</h3>
 
 Hello stranger! my name is Neeraj Singh Mahar and I am a Full Stack Developer, Working with MERN stack and programming languages like JavaScript for web development. Looking forward to some interesting and challenging opportunities. 
 
