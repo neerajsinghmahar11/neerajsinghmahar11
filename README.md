@@ -4,8 +4,6 @@
 
 Hello stranger! my name is Neeraj Singh Mahar and I am a Full Stack Developer, Working with MERN stack and programming languages like JavaScript for web development. Looking forward to some interesting and challenging opportunities. 
 
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neerajsinghmahar11&label=Profile%20views&color=0e75b6&style=flat" alt="neerajsinghmahar11" /> </p>
 
  <a>
