@@ -54,9 +54,9 @@ Hello stranger! my name is Neeraj Singh Mahar and I am a Full Stack Developer, W
 
 ### 🚀 Projects
 
-- 🔥 [Project Name 1](https://github.com/neerajsinghmahar11/-abundant-plantation-3559): This is a reliance digital clone using react
-- 🚀 [Project Name 2](https://github.com/neerajsinghmahar11/-novel-salt-5032): this is a clone of overstock.com an ecommerce website which sales furnitures
-- 🧠 [Project Name 3](https://github.com/neerajsinghmahar11/urbane-skirt-8549): This is a clone of blueaprone.com ,a food shipping website
+- 🔥 [relience digital clone](https://github.com/neerajsinghmahar11/-abundant-plantation-3559)  : This is a reliance digital clone using react
+- 🚀 [overstock clone](https://github.com/neerajsinghmahar11/-novel-salt-5032)  : this is a clone of overstock.com an ecommerce website which sales furnitures
+- 🧠 [blueaprone clone](https://github.com/neerajsinghmahar11/urbane-skirt-8549)  : This is a clone of blueaprone.com ,a food shipping website
 
 ## 📊 My Github Stats 
 <!-- github status  -->
