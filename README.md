@@ -22,7 +22,7 @@ Hello stranger! my name is Neeraj Singh Mahar and I am a Full Stack Developer, W
 
 - 📫 Reach me on **neeraj.singh.mahar11@gmail.com** 
 
-- 💬 Feel free to contact me, i am happy to help 
+- 💬 Feel free to contact me, I am happy to help 
 
 - 💬 Have a look at my <a href="https://neerajsinghmahar11.github.io/" >Portfolio</a>
 
@@ -48,6 +48,15 @@ Hello stranger! my name is Neeraj Singh Mahar and I am a Full Stack Developer, W
         <img src="https://camo.githubusercontent.com/3997f3b27a68e19c31e2d1c378d77303735faa42e7d18a8018f7510d66aaa83e/68747470733a2f2f7777772e77696e677374656368736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30332f66756c6c2d737461636b2d646576656c6f706d656e742e676966" width="50%"/>
  
 </div>
+
+
+---
+
+### 🚀 Projects
+
+- 🔥 [Project Name 1](https://github.com/neerajsinghmahar11/-abundant-plantation-3559): This is a reliance digital clone using react
+- 🚀 [Project Name 2](https://github.com/neerajsinghmahar11/-novel-salt-5032): this is a clone of overstock.com an ecommerce website which sales furnitures
+- 🧠 [Project Name 3](https://github.com/neerajsinghmahar11/urbane-skirt-8549): This is a clone of blueaprone.com ,a food shipping website
 
 ## 📊 My Github Stats 
 <!-- github status  -->
@@ -75,3 +84,9 @@ Hello stranger! my name is Neeraj Singh Mahar and I am a Full Stack Developer, W
 <!-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/the_neeraj_mahar/)  -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neeraj-singh-mahar-a81b78210/) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/NeerajSinghMah9) 
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=neerajsinghmahar11&theme=radical&no-bg=true&no-frame=true" alt="trophies" />
+</p>
